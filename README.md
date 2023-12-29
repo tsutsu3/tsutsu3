@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 
 
-![GitHub Stats Card](https://github-readme-stats-n6avzwtrd-tsutsu3.vercel.app/api?username=tsutsu3&count_private=true)
-![Top Languages Card](https://github-readme-stats-n6avzwtrd-tsutsu3.vercel.app/api/top-langs/?username=tsutsu3&hide=none)
+![GitHub Stats Card](https://github-readme-stats-pink-five-36.vercel.app/api?username=tsutsu3&count_private=true)
+![Top Languages Card](https://github-readme-stats-pink-five-36.vercel.app/api/top-langs/?username=tsutsu3&hide=none)
