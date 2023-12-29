@@ -13,6 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![GitHub Stats Card](https://github-readme-stats-pink-five-36.vercel.app/api?username=tsutsu3&count_private=true)
-![Top Languages Card](https://github-readme-stats-pink-five-36.vercel.app/api/top-langs/?username=tsutsu3&hide=none)
+| ![GitHub Stats Card](https://github-readme-stats-pink-five-36.vercel.app/api?username=tsutsu3&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&show=prs_merged,prs_merged_percentage) | ![Top Languages Card](https://github-readme-stats-pink-five-36.vercel.app/api/top-langs/?username=tsutsu3&hide_border=true&langs_count=5)|
+| ------------- | ------------- |
