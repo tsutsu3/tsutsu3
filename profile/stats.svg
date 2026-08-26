@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">tsutsu3&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 163, Total Commits  : 1033, Total PRs: 564, Total PRs Merged: 533, Merged PRs Percentage: 94.50, Total Issues: 168, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 163, Total Commits  : 1033, Total PRs: 565, Total PRs Merged: 534, Merged PRs Percentage: 94.51, Total Issues: 168, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 74.3938613790261;
+        stroke-dashoffset: 74.39351351449339;
       }
     }
   
@@ -192,7 +192,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >564</text>
+      >565</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged"
-      >533</text>
+      >534</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >94.50 %</text>
+      >94.51 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
