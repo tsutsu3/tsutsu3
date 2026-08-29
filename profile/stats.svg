@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">tsutsu3&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 163, Total Commits  : 1037, Total PRs: 568, Total PRs Merged: 537, Merged PRs Percentage: 94.54, Total Issues: 168, PRs Created: 568, PRs Commented: 51, Issues Created: 168, Issues Commented: 33, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 163, Total Commits  : 1041, Total PRs: 570, Total PRs Merged: 539, Merged PRs Percentage: 94.56, Total Issues: 168, PRs Created: 570, PRs Commented: 51, Issues Created: 168, Issues Commented: 33, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 74.33582122321143;
+        stroke-dashoffset: 74.27864730928223;
       }
     }
   
@@ -192,7 +192,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >568</text>
+      >570</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged"
-      >537</text>
+      >539</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >94.54 %</text>
+      >94.56 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -252,7 +252,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_authored"
-      >568</text></a>
+      >570</text></a>
     </g>
   </g><g transform="translate(0, 175)">
     <g class="stagger" style="animation-delay: 1500ms" transform="translate(25, 0)"><a href="https://github.com/search?q=commenter%3Atsutsu3+-author%3Atsutsu3&amp;type=pullrequests">
