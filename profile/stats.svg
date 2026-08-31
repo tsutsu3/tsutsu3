@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">tsutsu3&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 163, Total Commits  : 1045, Total PRs: 573, Total PRs Merged: 541, Merged PRs Percentage: 94.42, Total Issues: 169, PRs Created: 573, PRs Commented: 51, Issues Created: 169, Issues Commented: 33, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 163, Total Commits  : 1047, Total PRs: 573, Total PRs Merged: 541, Merged PRs Percentage: 94.42, Total Issues: 169, PRs Created: 573, PRs Commented: 51, Issues Created: 169, Issues Commented: 33, Contributed to (last year): 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 74.21590371181081;
+        stroke-dashoffset: 74.18778038294988;
       }
     }
   
@@ -312,7 +312,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >4</text>
+      >5</text>
     </g>
   </g>
     </svg>
