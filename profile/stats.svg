@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">tsutsu3&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 163, Total Commits  : 1053, Total PRs: 576, Total PRs Merged: 544, Merged PRs Percentage: 94.44, Total Issues: 171, PRs Created: 576, PRs Commented: 51, Issues Created: 171, Issues Commented: 33, Contributed to (last year): 5</desc>
+        <desc id="descId">Total Stars Earned: 163, Total Commits  : 1053, Total PRs: 576, Total PRs Merged: 544, Merged PRs Percentage: 94.44, Total Issues: 177, PRs Created: 576, PRs Commented: 51, Issues Created: 177, Issues Commented: 33, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 74.09231159067635;
+        stroke-dashoffset: 74.06429423067148;
       }
     }
   
@@ -237,7 +237,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >171</text>
+      >177</text>
     </g>
   </g><g transform="translate(0, 150)">
     <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)"><a href="https://github.com/search?q=author%3Atsutsu3&amp;type=pullrequests">
@@ -282,7 +282,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues_authored"
-      >171</text></a>
+      >177</text></a>
     </g>
   </g><g transform="translate(0, 225)">
     <g class="stagger" style="animation-delay: 1800ms" transform="translate(25, 0)"><a href="https://github.com/search?q=commenter%3Atsutsu3+-author%3Atsutsu3&amp;type=issues">
@@ -312,7 +312,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >5</text>
+      >4</text>
     </g>
   </g>
     </svg>
