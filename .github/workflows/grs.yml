@@ -1,9 +1,9 @@
 name: Update README cards
 
 on:
-  schedule:
-    - cron: "2 2 * * *"
-      timezone: "Asia/Tokyo"
+  # schedule:
+  #   - cron: "2 2 * * *"
+  #     timezone: "Asia/Tokyo"
   workflow_dispatch:
 
 jobs:

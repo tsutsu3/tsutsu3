@@ -13,5 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-| ![GitHub Stats Card](./profile/stats.svg) | ![Top Languages Card](./profile/top-langs.svg) |
-| ----------------------------------------- | ---------------------------------------------- |
+| ![GitHub Stats Card][github-stats] | ![Top Languages Card][top-languages] |
+| ---------------------------------- | ------------------------------------ |
+
+[github-stats]: https://github-stats-extended-frontend-indol-pi.vercel.app/api?username=tsutsu3&show_icons=true&include_all_commits=true&hide_border=true&show=prs_merged,prs_merged_percentage,prs_merged,prs_merged_percentage,prs_authored,prs_commented,issues_authored,issues_commented
+[top-languages]: https://github-stats-extended-frontend-indol-pi.vercel.app/api/top-langs/?username=tsutsu3&hide_border=true&hide_border=true&langs_count=10
